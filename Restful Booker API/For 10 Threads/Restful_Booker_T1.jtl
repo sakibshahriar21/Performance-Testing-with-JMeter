@@ -1,0 +1,81 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1659794502028,1122,Ping - HealthCheck ,201,Created,Restful_Booker 1-2,text,true,,248,137,3,3,https://restful-booker.herokuapp.com/ping,1119,0,838
+1659794501087,2283,Ping - HealthCheck ,201,Created,Restful_Booker 1-1,text,true,,248,137,3,3,https://restful-booker.herokuapp.com/ping,2283,0,1999
+1659794503153,279,CreateBooking ,200,OK,Restful_Booker 1-2,text,true,,442,445,3,3,https://restful-booker.herokuapp.com/booking/,279,0,0
+1659794503371,284,CreateBooking ,200,OK,Restful_Booker 1-1,text,true,,442,445,3,3,https://restful-booker.herokuapp.com/booking/,284,0,0
+1659794503461,279,Get All Booking IDs,200,OK,Restful_Booker 1-2,text,true,,12347,140,3,3,https://restful-booker.herokuapp.com/booking,277,0,0
+1659794503740,278,Get Specific Booking,200,OK,Restful_Booker 1-2,text,true,,414,170,3,3,https://restful-booker.herokuapp.com/booking/710,278,0,0
+1659794503029,1164,Ping - HealthCheck ,201,Created,Restful_Booker 1-3,text,true,,248,137,4,4,https://restful-booker.herokuapp.com/ping,1164,0,875
+1659794503656,568,Get All Booking IDs,200,OK,Restful_Booker 1-1,text,true,,12347,140,4,4,https://restful-booker.herokuapp.com/booking,287,0,0
+1659794504018,275,Create Token,200,OK,Restful_Booker 1-2,text,true,,271,247,4,4,https://restful-booker.herokuapp.com/auth,275,0,0
+1659794504193,293,CreateBooking ,200,OK,Restful_Booker 1-3,text,true,,442,445,4,4,https://restful-booker.herokuapp.com/booking/,293,0,0
+1659794504224,288,Get Specific Booking,200,OK,Restful_Booker 1-1,text,true,,414,170,4,4,https://restful-booker.herokuapp.com/booking/711,288,0,0
+1659794504294,279,Update Booking,200,OK,Restful_Booker 1-2,text,true,,414,498,4,4,https://restful-booker.herokuapp.com/booking/710,279,0,0
+1659794504487,296,Get All Booking IDs,200,OK,Restful_Booker 1-3,text,true,,12365,140,4,4,https://restful-booker.herokuapp.com/booking,295,0,0
+1659794504512,288,Create Token,200,OK,Restful_Booker 1-1,text,true,,271,247,4,4,https://restful-booker.herokuapp.com/auth,288,0,0
+1659794504783,298,Get Specific Booking,200,OK,Restful_Booker 1-3,text,true,,414,170,5,5,https://restful-booker.herokuapp.com/booking/712,298,0,0
+1659794504800,293,Update Booking,200,OK,Restful_Booker 1-1,text,true,,414,498,5,5,https://restful-booker.herokuapp.com/booking/711,293,0,0
+1659794504573,821,Partial Update Booking,200,OK,Restful_Booker 1-2,text,true,,416,329,5,5,https://restful-booker.herokuapp.com/booking/710,821,0,0
+1659794505082,899,Create Token,200,OK,Restful_Booker 1-3,text,true,,271,247,5,5,https://restful-booker.herokuapp.com/auth,899,0,0
+1659794505394,840,Delete Booking,201,Created,Restful_Booker 1-2,text,true,,248,283,6,6,https://restful-booker.herokuapp.com/booking/710,840,0,0
+1659794505981,293,Update Booking,200,OK,Restful_Booker 1-3,text,true,,414,498,5,5,https://restful-booker.herokuapp.com/booking/712,293,0,0
+1659794505093,1410,Partial Update Booking,200,OK,Restful_Booker 1-1,text,true,,416,329,5,5,https://restful-booker.herokuapp.com/booking/711,1410,0,0
+1659794506274,291,Partial Update Booking,200,OK,Restful_Booker 1-3,text,true,,416,329,5,5,https://restful-booker.herokuapp.com/booking/712,291,0,0
+1659794506503,289,Delete Booking,201,Created,Restful_Booker 1-1,text,true,,248,283,5,5,https://restful-booker.herokuapp.com/booking/711,289,0,0
+1659794506565,292,Delete Booking,201,Created,Restful_Booker 1-3,text,true,,248,283,4,4,https://restful-booker.herokuapp.com/booking/712,292,0,0
+1659794506028,1143,Ping - HealthCheck ,201,Created,Restful_Booker 1-6,text,true,,248,137,4,4,https://restful-booker.herokuapp.com/ping,1143,0,857
+1659794507171,288,CreateBooking ,200,OK,Restful_Booker 1-6,text,true,,442,445,4,4,https://restful-booker.herokuapp.com/booking/,288,0,0
+1659794507460,567,Get All Booking IDs,200,OK,Restful_Booker 1-6,text,true,,12329,140,4,4,https://restful-booker.herokuapp.com/booking,567,0,0
+1659794508027,285,Get Specific Booking,200,OK,Restful_Booker 1-6,text,true,,414,170,5,5,https://restful-booker.herokuapp.com/booking/713,285,0,0
+1659794508313,283,Create Token,200,OK,Restful_Booker 1-6,text,true,,271,247,5,5,https://restful-booker.herokuapp.com/auth,283,0,0
+1659794508597,869,Update Booking,200,OK,Restful_Booker 1-6,text,true,,414,498,6,6,https://restful-booker.herokuapp.com/booking/713,869,0,0
+1659794507028,2472,Ping - HealthCheck ,201,Created,Restful_Booker 1-7,text,true,,248,137,6,6,https://restful-booker.herokuapp.com/ping,2472,0,2177
+1659794509467,289,Partial Update Booking,200,OK,Restful_Booker 1-6,text,true,,416,329,6,6,https://restful-booker.herokuapp.com/booking/713,289,0,0
+1659794508029,1886,Ping - HealthCheck ,201,Created,Restful_Booker 1-8,text,true,,248,137,6,6,https://restful-booker.herokuapp.com/ping,1886,0,1598
+1659794509757,292,Delete Booking,201,Created,Restful_Booker 1-6,text,true,,248,283,7,7,https://restful-booker.herokuapp.com/booking/713,292,0,0
+1659794509915,291,CreateBooking ,200,OK,Restful_Booker 1-8,text,true,,442,445,6,6,https://restful-booker.herokuapp.com/booking/,291,0,0
+1659794509500,1084,CreateBooking ,200,OK,Restful_Booker 1-7,text,true,,442,445,6,6,https://restful-booker.herokuapp.com/booking/,1084,0,0
+1659794510207,574,Get All Booking IDs,200,OK,Restful_Booker 1-8,text,true,,12347,140,6,6,https://restful-booker.herokuapp.com/booking,290,0,0
+1659794510781,292,Get Specific Booking,200,OK,Restful_Booker 1-8,text,true,,414,170,6,6,https://restful-booker.herokuapp.com/booking/715,292,0,0
+1659794511073,299,Create Token,200,OK,Restful_Booker 1-8,text,true,,271,247,6,6,https://restful-booker.herokuapp.com/auth,299,0,0
+1659794505028,6418,Ping - HealthCheck ,201,Created,Restful_Booker 1-5,text,true,,248,137,6,6,https://restful-booker.herokuapp.com/ping,6418,0,5190
+1659794509029,2607,Ping - HealthCheck ,201,Created,Restful_Booker 1-9,text,true,,248,137,6,6,https://restful-booker.herokuapp.com/ping,2607,0,2285
+1659794511372,291,Update Booking,200,OK,Restful_Booker 1-8,text,true,,414,498,6,6,https://restful-booker.herokuapp.com/booking/715,291,0,0
+1659794511664,297,Partial Update Booking,200,OK,Restful_Booker 1-8,text,true,,416,329,6,6,https://restful-booker.herokuapp.com/booking/715,297,0,0
+1659794511637,329,CreateBooking ,200,OK,Restful_Booker 1-9,text,true,,442,445,6,6,https://restful-booker.herokuapp.com/booking/,329,0,0
+1659794510031,1987,Ping - HealthCheck ,201,Created,Restful_Booker 1-10,text,true,,248,137,6,6,https://restful-booker.herokuapp.com/ping,1987,0,1702
+1659794511961,292,Delete Booking,201,Created,Restful_Booker 1-8,text,true,,248,283,6,6,https://restful-booker.herokuapp.com/booking/715,292,0,0
+1659794512018,287,CreateBooking ,200,OK,Restful_Booker 1-10,text,true,,442,445,5,5,https://restful-booker.herokuapp.com/booking/,287,0,0
+1659794511446,1412,CreateBooking ,200,OK,Restful_Booker 1-5,text,true,,442,445,5,5,https://restful-booker.herokuapp.com/booking/,1412,0,0
+1659794512306,576,Get All Booking IDs,200,OK,Restful_Booker 1-10,text,true,,12383,140,5,5,https://restful-booker.herokuapp.com/booking,576,0,0
+1659794511966,1093,Get All Booking IDs,200,OK,Restful_Booker 1-9,text,true,,12365,140,5,5,https://restful-booker.herokuapp.com/booking,329,0,0
+1659794512882,289,Get Specific Booking,200,OK,Restful_Booker 1-10,text,true,,414,170,5,5,https://restful-booker.herokuapp.com/booking/718,289,0,0
+1659794504028,9250,Ping - HealthCheck ,201,Created,Restful_Booker 1-4,text,true,,248,137,5,5,https://restful-booker.herokuapp.com/ping,9250,0,8966
+1659794513059,330,Get Specific Booking,200,OK,Restful_Booker 1-9,text,true,,414,170,5,5,https://restful-booker.herokuapp.com/booking/717,330,0,0
+1659794513171,285,Create Token,200,OK,Restful_Booker 1-10,text,true,,271,247,5,5,https://restful-booker.herokuapp.com/auth,285,0,0
+1659794513278,288,CreateBooking ,200,OK,Restful_Booker 1-4,text,true,,442,445,5,5,https://restful-booker.herokuapp.com/booking/,288,0,0
+1659794513389,324,Create Token,200,OK,Restful_Booker 1-9,text,true,,271,247,5,5,https://restful-booker.herokuapp.com/auth,324,0,0
+1659794513456,289,Update Booking,200,OK,Restful_Booker 1-10,text,true,,414,498,5,5,https://restful-booker.herokuapp.com/booking/718,289,0,0
+1659794513746,290,Partial Update Booking,200,OK,Restful_Booker 1-10,text,true,,416,329,5,5,https://restful-booker.herokuapp.com/booking/718,290,0,0
+1659794514036,288,Delete Booking,201,Created,Restful_Booker 1-10,text,true,,248,283,5,5,https://restful-booker.herokuapp.com/booking/718,288,0,0
+1659794513713,956,Update Booking,200,OK,Restful_Booker 1-9,text,true,,414,498,4,4,https://restful-booker.herokuapp.com/booking/717,956,0,0
+1659794514669,328,Partial Update Booking,200,OK,Restful_Booker 1-9,text,true,,416,329,4,4,https://restful-booker.herokuapp.com/booking/717,328,0,0
+1659794514997,346,Delete Booking,201,Created,Restful_Booker 1-9,text,true,,248,283,4,4,https://restful-booker.herokuapp.com/booking/717,346,0,0
+1659794512859,2861,Get All Booking IDs,200,OK,Restful_Booker 1-5,text,true,,12383,140,3,3,https://restful-booker.herokuapp.com/booking,307,0,0
+1659794513566,2508,Get All Booking IDs,200,OK,Restful_Booker 1-4,text,true,,12401,140,3,3,https://restful-booker.herokuapp.com/booking,574,0,0
+1659794516074,333,Get Specific Booking,200,OK,Restful_Booker 1-4,text,true,,414,170,3,3,https://restful-booker.herokuapp.com/booking/719,333,0,0
+1659794516407,295,Create Token,200,OK,Restful_Booker 1-4,text,true,,271,247,3,3,https://restful-booker.herokuapp.com/auth,295,0,0
+1659794515720,1198,Get Specific Booking,200,OK,Restful_Booker 1-5,text,true,,414,170,3,3,https://restful-booker.herokuapp.com/booking/716,1198,0,0
+1659794516703,298,Update Booking,200,OK,Restful_Booker 1-4,text,true,,414,498,3,3,https://restful-booker.herokuapp.com/booking/719,298,0,0
+1659794516919,291,Create Token,200,OK,Restful_Booker 1-5,text,true,,271,247,3,3,https://restful-booker.herokuapp.com/auth,291,0,0
+1659794517002,292,Partial Update Booking,200,OK,Restful_Booker 1-4,text,true,,416,329,3,3,https://restful-booker.herokuapp.com/booking/719,292,0,0
+1659794517295,311,Delete Booking,201,Created,Restful_Booker 1-4,text,true,,248,283,3,3,https://restful-booker.herokuapp.com/booking/719,311,0,0
+1659794517211,3643,Update Booking,200,OK,Restful_Booker 1-5,text,true,,414,498,2,2,https://restful-booker.herokuapp.com/booking/716,3643,0,0
+1659794520856,300,Partial Update Booking,200,OK,Restful_Booker 1-5,text,true,,416,329,2,2,https://restful-booker.herokuapp.com/booking/716,300,0,0
+1659794521156,297,Delete Booking,201,Created,Restful_Booker 1-5,text,true,,248,283,2,2,https://restful-booker.herokuapp.com/booking/716,297,0,0
+1659794510585,50098,Get All Booking IDs,200,OK,Restful_Booker 1-7,text,true,,12347,140,1,1,https://restful-booker.herokuapp.com/booking,304,0,0
+1659794560684,294,Get Specific Booking,200,OK,Restful_Booker 1-7,text,true,,414,170,1,1,https://restful-booker.herokuapp.com/booking/714,293,0,0
+1659794560978,290,Create Token,200,OK,Restful_Booker 1-7,text,true,,271,247,1,1,https://restful-booker.herokuapp.com/auth,290,0,0
+1659794561269,1925,Update Booking,200,OK,Restful_Booker 1-7,text,true,,414,498,1,1,https://restful-booker.herokuapp.com/booking/714,1925,0,0
+1659794563195,293,Partial Update Booking,200,OK,Restful_Booker 1-7,text,true,,416,329,1,1,https://restful-booker.herokuapp.com/booking/714,293,0,0
+1659794563489,294,Delete Booking,201,Created,Restful_Booker 1-7,text,true,,248,283,1,1,https://restful-booker.herokuapp.com/booking/714,293,0,0
